@@ -1,0 +1,25 @@
+# Not authoritative — "files": ["dist"] in package.json is what actually
+# controls what gets published (an allowlist overrides this entirely).
+# This file exists as explicit, human-readable documentation of intent,
+# and as a fallback if "files" is ever removed from package.json.
+
+src/
+scripts/
+docs/
+assets/
+.github/
+.husky/
+*.test.ts
+*.test.tsx
+*.map
+tsconfig*.json
+vitest.config.ts
+eslint.config.js
+.prettierrc.json
+.prettierignore
+.eslintcache
+.env
+.env.*
+*.log
+coverage/
+node_modules/
