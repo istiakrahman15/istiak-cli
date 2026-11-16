@@ -8,10 +8,10 @@
 - [x] Config system
 
 ## v1.1
-- [ ] Git helper
-- [ ] Project generator
-- [ ] Code review
-- [ ] Error fixer
+- [x] Git helper
+- [x] Project generator
+- [x] Code review
+- [x] Error fixer
 - [x] Ink-based interactive chat UI (streaming, markdown, scrollback, themes)
 - [x] Lint/typecheck/test/build tooling + CI
 
