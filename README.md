@@ -157,21 +157,6 @@ current session from the chat command palette (`Ctrl+P`).
 
 ---
 
-## Screenshots
-
-> Screenshots are still being captured — placeholders below will be replaced
-> as they're added. If you'd like to contribute one, see [Contributing](#contributing).
-
-| | |
-|---|---|
-| **Hero** | `docs/screenshots/hero.png` |
-| **Interactive Chat** | `docs/screenshots/chat.png` |
-| **Code Generation** | `docs/screenshots/code-generation.png` |
-| **Project Review** | `docs/screenshots/review.png` |
-| **Settings** | `docs/screenshots/config.png` |
-
----
-
 ## Configuration
 
 ISTIAK CLI reads configuration in this order — environment variables first,
